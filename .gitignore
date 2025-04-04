@@ -1,5 +1,7 @@
 *.env
 
+Neo4j-b4a184d9-Created-2025-04-04.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
